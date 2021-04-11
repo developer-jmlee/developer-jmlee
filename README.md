@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @developer-jmlee
 - 👀 I’m interested in Front-End Development and Design
 - 🌱 I’m currently learning Spring
-- 💞️ I’m looking to collaborate on Ba-End Development
+- 💞️ I’m looking to collaborate on Back -End Development
 - 📫 How to reach me mina.jeongmin.lee@gmail.com
 
 <!---
